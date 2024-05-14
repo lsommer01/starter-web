@@ -18,3 +18,5 @@ working dir
 
 
 japon
+
+@copyright
